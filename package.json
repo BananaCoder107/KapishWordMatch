@@ -1,0 +1,12 @@
+{
+  "name": "vocab-master-server",
+  "version": "1.0.0",
+  "description": "Vocab Master with network leaderboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
